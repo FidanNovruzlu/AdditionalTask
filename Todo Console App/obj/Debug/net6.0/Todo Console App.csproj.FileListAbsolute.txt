@@ -1,0 +1,15 @@
+D:\desktop\programs\C#\Todo Console App\Todo Console App\bin\Debug\net6.0\Todo Console App.exe
+D:\desktop\programs\C#\Todo Console App\Todo Console App\bin\Debug\net6.0\Todo Console App.deps.json
+D:\desktop\programs\C#\Todo Console App\Todo Console App\bin\Debug\net6.0\Todo Console App.runtimeconfig.json
+D:\desktop\programs\C#\Todo Console App\Todo Console App\bin\Debug\net6.0\Todo Console App.dll
+D:\desktop\programs\C#\Todo Console App\Todo Console App\bin\Debug\net6.0\Todo Console App.pdb
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.csproj.AssemblyReference.cache
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.AssemblyInfoInputs.cache
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.AssemblyInfo.cs
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.csproj.CoreCompileInputs.cache
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.dll
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\refint\Todo Console App.dll
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.pdb
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\Todo Console App.genruntimeconfig.cache
+D:\desktop\programs\C#\Todo Console App\Todo Console App\obj\Debug\net6.0\ref\Todo Console App.dll
